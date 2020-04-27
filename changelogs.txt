@@ -1,0 +1,45 @@
+# APRIL 27, 2020 / 22 APRILE 2020
+🇬🇧 New version of the Furrama website (v0.5.1), with the integration of the Updates page in the main page (located at the bottom at the end), Telegram and Discord social buttons have been removed and the Discord option is situated in the navigation, while entering Furrama Pocket is on the main page. The font and minor revisiting of the main page has also been changed.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.5.1), con l'integrazione della pagina Novità nella pagina principale (si trova in basso alla fine), sono stati tolti i pulsanti social Telegram e Discord e l'opzione Discord si trova nella barra di navigazione, mentre l'entrata in Furrama Pocket si trova nella pagina principale. E' stato anche cambiato il font e piccola rivisitazione della pagina principale.
+
+# APRIL 21, 2020 / 21 APRILE 2020
+🇬🇧 New version of the Furrama website (v0.5.0), with the introduction of the Spoiler button, so as to keep hidden a lot of information and expand it in case of need.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.5.0), con l'introduzione della tendina Spoiler, così da tenere nascosto le tante informazioni ed espanderle in caso di necessità.
+
+# APRIL 20, 2020 / 20 APRILE 2020
+🇬🇧 New version of the Furrama website (v0.4.8), with the introduction of a new group (Furrama Gourmet), a small revisiting of the Groups and FAQs & Tips page and the introduction of a new button to enter Furrama Gourmet from Furrama Pocket.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.4.8), con l'introduzione di un nuovo gruppo (Furrama Gourmet), piccola rivisitazione pagina Gruppi e FAQ & Consigli e l'introduzione di un nuovo pulsante per entrare in Furrama Gourmet da Furrama Pocket.
+
+# APRIL 3, 2020 / 3 APRILE 2020
+🇬🇧 New version of the Furrama website (v0.4.6), with the introduction of the new group called Furrama Art, a small revisiting of the Groups and FAQs & Tips page and the introduction of a new button to enter Furrama Art from Furrama Pocket.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.4.6), con l'introduzione di un nuovo gruppo (Furrama Art) e piccola rivisitazione pagina Gruppi e FAQ & Consigli e l'introduzione di un nuovo pulsante per entrare in Furrama Art da Furrama Pocket.
+
+# MARCH 29, 2020 / 29 MARZO 2020
+🇬🇧 New version of the Furrama website (v0.4.4), with the integration of the Groups page on a single page and the integration of the FAQ and Tips page on a single page.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.4.4), con l'integrazione delle pagine Gruppi in un'unica pagina e l'integrazione delle pagine FAQ e Consigli in un'unica pagina.
+
+# MARCH 28, 2020 / 28 MARZO 2020
+🇬🇧 New version of the Furrama website (v0.4.2), with the introduction of a new web page called Updates, where all the updates and changelog on Furrama are present. A new tip has been introduced on the Tips page on how to create folders in the official Telegram for PC. On Furrama Pocket, the buttons Rules, Questions & Answers and Tips in ITA and ENG ver., have been united in a single button and introduced a new button called Updates.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.4.2), con l'introduzione di una nuova pagina web chiamata Novità, dove sono presenti tutti gli aggiornamenti e changelog su Furrama. E' stato introdotto un nuovo consiglio nella pagina Consigli su come creare delle cartelle nel Telegram ufficiale per PC. Su Furrama Pocket, i pulsanti Regole, Domande & Risposte e Consigli in ver. ITA e ENG, sono stati uniti in un unico pulsante ed introdotto un nuovo pulsante chiamato Novità.
+
+# MARCH 19, 2020 / 19 MARZO 2020
+🇬🇧 New version of the Furrama website (v0.4.0), with the introduction of an official website logo and a new web page called Groups, where there is a list of all Furrama groups, with its own rules and the possibility to access to one of them.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.4.0), con l'introduzione di un logo ufficiale del sitoweb ed una nuova pagina web chiamata Gruppi, dove è presente una lista di tutti i gruppi Furrama, con un proprio regolamento e la possibilità di accedere ad uno di essi.
+
+# MARCH 15, 2020 / 15 MARZO 2020
+🇬🇧 New version of the Furrama website (v0.3.0), with the introduction of a new web page called Tips, where there are tips on how to best use Furrama and Telegram.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.3.0), con l'introduzione di una nuova pagina web chiamata Consigli, dove sono presenti dei consigli di come usare al meglio Furrama e Telegram.
+
+# MARCH 7, 2020 / 7 MARZO 2020
+🇬🇧 New version of the Furrama website (v0.2.0), with the introduction of the social icons of Telegram and Discord (below) and the introduction of a new web page called Rules, where the Furrama General rules is present.
+🇮🇹 Nuova versione del sitoweb di Furrama (v0.2.0), con l'introduzione delle icone social di Telegram e Discord (in basso) e l'introduzione di una nuova pagina web chiamata Regole, dove è presente il regolamento di Furrama General.
+
+# MARCH 6, 2020 / 6 MARZO 2020
+🇬🇧 The official opening of the Furrama website (v0.1.0), in its rather immature stage and with very little informations.
+🇮🇹 L'apertura ufficiale del sitoweb di Furrama (v0.1.0), nel suo stadio piuttosto acerbo e con pochissime informazioni.
+
+...
+
+# JANUARY 28, 2020 / 28 GENNAIO 2020
+🇬🇧 The official opening of the Telegram groups called Furrama General and Textual and of the Telegram channel called Furrama Pocket.
+🇮🇹 L'apertura ufficiale dei gruppi Telegram chiamati Furrama General e Textual e del canale Telegram chiamato Furrama Pocket.

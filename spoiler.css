@@ -1,5 +1,5 @@
 .spoiler, .trigger.close, .trigger.open:target { display: none; }
 .trigger.open:target + .trigger.close,
 .trigger.open:target + .trigger.close + .spoiler { display: block; }
-a.trigger { color: royalblue; text-decoration: none; }
+a.trigger { text-decoration: none; }
 body { min-height: 100px; }
