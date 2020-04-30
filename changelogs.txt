@@ -1,4 +1,8 @@
-# APRIL 27, 2020 / 22 APRILE 2020
+# APRIL 30, 2020 / 30 APRILE 2020
+🇬🇧 New version of the Furrama website (v0.5.3), with a great optimization of the website, the introduction of a new group (Furrama Dreamy) and the introduction of a new button to enter Furrama Dreamy from Furrama Pocket.
+🇮🇹 Nuova versione del sito web di Furrama (v0.5.3), con una gran ottimizzazione del sito web,  l'introduzione di un nuovo gruppo (Furrama Dreamy) e l'introduzione di un nuovo pulsante per entrare in Furrama Dreamy da Furrama Pocket.
+
+# APRIL 27, 2020 / 27 APRILE 2020
 🇬🇧 New version of the Furrama website (v0.5.1), with the integration of the Updates page in the main page (located at the bottom at the end), Telegram and Discord social buttons have been removed and the Discord option is situated in the navigation, while entering Furrama Pocket is on the main page. The font and minor revisiting of the main page has also been changed.
 🇮🇹 Nuova versione del sitoweb di Furrama (v0.5.1), con l'integrazione della pagina Novità nella pagina principale (si trova in basso alla fine), sono stati tolti i pulsanti social Telegram e Discord e l'opzione Discord si trova nella barra di navigazione, mentre l'entrata in Furrama Pocket si trova nella pagina principale. E' stato anche cambiato il font e piccola rivisitazione della pagina principale.
 
