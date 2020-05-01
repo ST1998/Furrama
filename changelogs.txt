@@ -1,6 +1,6 @@
-# MAY 1, 2020 / 1 MAGGIO 2020 (v0.5.4)
-🇬🇧 Introduction of Apple Touch Icons, or the bootable icons (to get quickly to this website) located on the main screen of iOS and Android.
-🇮🇹 Introduzione di Apple Touch Icons, ovvero delle icone avviabili (per arrivare rapidamente in questo sito web) situate nella schermata principale di iOS e Android.
+# MAY 2, 2020 / 2 MAGGIO 2020 (v0.5.5)
+🇬🇧 Introduction of the various favicons (from 16x16 to 310x310) of Furrama Website for the compatibility of the platforms Microsoft (with Windows, Internet Explorer and Edge), Apple (with iOS, MacOS and Safari) and Google (with Android, Chrome and Chrome OS).
+🇮🇹 Introduzione delle varie favicon (da 16x16 a 310x310) di Furrama Website per la compatibilità delle piattaforme Microsoft (con Windows, Internet Explorer ed Edge), Apple (con iOS, MacOS e Safari) e Google (con Android, Chrome e Chrome OS).
 
 # APRIL 30, 2020 / 30 APRILE 2020 (v0.5.3)
 🇬🇧 Great optimization of the website, the introduction of a new group (Furrama Dreamy) and the introduction of a new button to enter Furrama Dreamy from Furrama Pocket.
