@@ -1,6 +1,0 @@
-# robots.txt file for Furrama Website
-
-User-agent: *
-Disallow: /*.css$
-Disallow: /*.png$
-Disallow: /*.jpg$
